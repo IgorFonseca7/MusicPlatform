@@ -1,2 +1,1 @@
-spotify-imersaoFrontEnd junto com a comunidade Alura 
-# Desenvolvido por: Igor Fonseca
+O clone do Spotify desenvolvido por Igor Fonseca é uma homenagem à plataforma original, oferecendo uma experiência de streaming de música semelhante, incluindo personalização de recomendações, integração social e acesso a um vasto catálogo de músicas. Este projeto busca capturar a magia do Spotify enquanto oferece uma alternativa para os usuários desfrutarem da música.
