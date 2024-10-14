@@ -1,1 +1,12 @@
-O clone do Spotify desenvolvido por Igor Fonseca é uma homenagem à plataforma original, oferecendo uma experiência de streaming de música semelhante, incluindo personalização de recomendações, integração social e acesso a um vasto catálogo de músicas. Este projeto busca capturar a magia do Spotify enquanto oferece uma alternativa para os usuários desfrutarem da música.
+# Music Platform Project
+
+<div style="display: inline_block"><br/>
+Este projeto trata-se de uma plataforma para localizar e escutar músicas. A plataforma inclui também a criação de playlists.<br/><br/>
+Tecnologias usadas:<br/><br/>
+HTML5<br/>
+CSS<br/>
+JavaScript<br/>
+React.Js<br/>
+<br/>
+
+</div>
